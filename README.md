@@ -70,5 +70,3 @@ Copy
 - **Habilidades Técnicas**: Manipulação de dados (Pandas), NLP, visualização, machine learning.
 - **Aplicação Prática**: Foco em problemas reais (combate a fake news).
 - **Clareza e Profissionalismo**: Estrutura replicável e documentação detalhada. 
-
-Esses materiais destacam sua capacidade de transformar dados em insights acionáveis, um diferencial para oportunidades em análise de dados e ciência de dados! 🌟

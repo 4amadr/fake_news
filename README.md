@@ -1,6 +1,3 @@
-README.md para GitHub:
-markdown
-Copy
 # Análise de Notícias Falsas (Fake News)
 
 Este projeto explora um dataset de notícias falsas para identificar padrões, temas recorrentes e outliers utilizando técnicas de processamento de linguagem natural (NLP) e machine learning.
